@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tuan1408/redux-photo-app/static/css/main.43d94145.css",
+    "main.js": "/tuan1408/redux-photo-app/static/js/main.911aec8a.js",
+    "static/css/31.531e8630.chunk.css": "/tuan1408/redux-photo-app/static/css/31.531e8630.chunk.css",
+    "static/js/31.67d7d694.chunk.js": "/tuan1408/redux-photo-app/static/js/31.67d7d694.chunk.js",
+    "static/js/787.43c0bc12.chunk.js": "/tuan1408/redux-photo-app/static/js/787.43c0bc12.chunk.js",
+    "static/js/967.5d29693e.chunk.js": "/tuan1408/redux-photo-app/static/js/967.5d29693e.chunk.js",
+    "static/media/orange-bg.jpg": "/tuan1408/redux-photo-app/static/media/orange-bg.a98c2734b4299e305b7f.jpg",
+    "static/media/pink-bg.jpg": "/tuan1408/redux-photo-app/static/media/pink-bg.d6dafc0aa74a3594ed43.jpg",
+    "static/media/colorful-bg.jpg": "/tuan1408/redux-photo-app/static/media/colorful-bg.95c0fb342777f6d1bc88.jpg",
+    "static/media/blue-bg.jpg": "/tuan1408/redux-photo-app/static/media/blue-bg.93b683dcd7c104e108ed.jpg",
+    "index.html": "/tuan1408/redux-photo-app/index.html",
+    "main.43d94145.css.map": "/tuan1408/redux-photo-app/static/css/main.43d94145.css.map",
+    "main.911aec8a.js.map": "/tuan1408/redux-photo-app/static/js/main.911aec8a.js.map",
+    "31.531e8630.chunk.css.map": "/tuan1408/redux-photo-app/static/css/31.531e8630.chunk.css.map",
+    "31.67d7d694.chunk.js.map": "/tuan1408/redux-photo-app/static/js/31.67d7d694.chunk.js.map",
+    "787.43c0bc12.chunk.js.map": "/tuan1408/redux-photo-app/static/js/787.43c0bc12.chunk.js.map",
+    "967.5d29693e.chunk.js.map": "/tuan1408/redux-photo-app/static/js/967.5d29693e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d94145.css",
+    "static/js/main.911aec8a.js"
+  ]
+}
